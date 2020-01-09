@@ -1,0 +1,18 @@
+# This is an example for IceWM's menu definition file.
+#
+# Place your variants in /etc/icewm or in $HOME/.icewm
+# since modifications to this file will be discarded when you
+# (re)install icewm.
+#
+prog xterm xterm xterm
+prog rxvt xterm rxvt -bg black -cr green -fg white -C -fn 9x15 -sl 500
+prog Emacs emacs emacs
+prog XEmacs emacs xemacs
+prog NEdit nedit nedit
+prog Mozilla mozilla mozilla
+prog Firefox firefox firefox
+prog Thunderbird thunderbird thunderbird
+prog XChat xchat xchat
+prog Gaim gaim gaim
+prog Gimp gimp gimp
+prog OpenOffice ooffice ooffice
